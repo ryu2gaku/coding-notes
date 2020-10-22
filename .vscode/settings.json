@@ -1,0 +1,5 @@
+{
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "markdown.extension.toc.levels": "2..6"
+}
